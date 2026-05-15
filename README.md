@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website developed using **HTML5** and
 
 The website features a simple user interface with well-structured sections, making it easy to navigate and visually appealing. It serves as a beginner-friendly frontend web development project and demonstrates my understanding of webpage structure, styling, layouts, and responsive design principles.
 
-## ✨ Features
+##  Features
 
 * Clean and modern design
 * Responsive layout for different screen sizes
@@ -16,12 +16,12 @@ The website features a simple user interface with well-structured sections, maki
 * Smooth navigation
 * Beginner-friendly code structure
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3
 
-## 📚 What I Learned
+##  What I Learned
 
 Through this project, I improved my knowledge of:
 
@@ -31,19 +31,10 @@ Through this project, I improved my knowledge of:
 * Creating reusable sections and layouts
 * Designing user-friendly interfaces
 
-## 🎯 Project Goal
+##  Project Goal
 
 The main goal of this project is to build a professional online portfolio to present my skills and projects while strengthening my frontend development fundamentals.
 
-## 🚀 Future Enhancements
-
-* Add JavaScript for interactivity
-* Include animations and transitions
-* Add dark/light mode toggle
-* Improve mobile responsiveness
-* Add downloadable resume feature
-* Connect contact form with backend/email service
-
-## 📌 Conclusion
+##  Conclusion
 
 This portfolio website represents my learning journey in web development and serves as a foundation for building more advanced and interactive web applications in the future.
